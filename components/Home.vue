@@ -20,7 +20,7 @@
           </div>
         </div>
         <div class="md:w-1/2 w-5/6 h:">
-          <img class="pl-32 rounded " alt="hero" src="https://raw.githubusercontent.com/123seven/oss/master/images/Read.png">
+          <img class="pl-32 rounded " alt="liuli" src="https://raw.githubusercontent.com/123seven/oss/master/images/Liuli.png">
         </div>
       </div>
     </section>
