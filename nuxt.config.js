@@ -9,7 +9,9 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { vmid: 'keywords', name: 'keywords', content: 'liuli 琉璃 微信公众号 阅读 干净 智能过滤广告' },
+      { vmid: 'description', name: 'description', content: '构建一个多源、干净、个性化的阅读环境' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
