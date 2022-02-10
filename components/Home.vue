@@ -9,6 +9,7 @@
             <br class="hidden lg:inline-block">
             <br class="hidden lg:inline-block">
             <h3 class="text-2xl">
+              琉璃开净界，薜荔启禅关<br class="hidden lg:inline-block">
               构建一个多源、干净、个性化的阅读环境
             </h3>
           </h1>
