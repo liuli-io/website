@@ -2,11 +2,11 @@
   <header class="text-gray-600 body-font">
     <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
       <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-        <img class="w-10 h-10 text-white p-2 rounded-full" src="https://raw.githubusercontent.com/liuli-io/liuli/main/.files/images/logo_pure.jpg">
+        <img class="w-12 h-12 text-white p-1 rounded-full" src="https://raw.githubusercontent.com/liuli-io/liuli/main/.files/images/logo_pure.jpg">
         <span class="ml-3 text-xl">Liuli</span>
       </a>
       <nav class="md:ml-auto flex flex-wrap items-center text-base text-black justify-center">
-        <a href="https://github.com/howie6879/liuli/blob/main/docs/01.%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md" class="mr-5 hover:text-gray-900 px-2">文档</a>
+        <a href="https://doc.liuli.io" class="mr-5 hover:text-gray-900 px-2">文档</a>
         <a href="https://github.com/howie6879/liuli/issues/4" class="mr-5 hover:text-gray-900 px-2">提交广告</a>
         <a href="https://github.com/howie6879/liuli/blob/main/README.md" class="mr-5 hover:text-gray-900 px-2">关于</a>
         <a href="https://github.com/howie6879/liuli/blob/main/README.md" class="mr-5 hover:text-gray-900 px-2">
